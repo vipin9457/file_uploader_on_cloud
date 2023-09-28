@@ -9,8 +9,8 @@ To install the module, use pip:
 pip install file_uploader_on_cloud
 or 
 we can run the module with the following command 
-python3 install -r requirements.txt
-python3 setup.py install
+#python3 install -r requirements.txt
+#python3 setup.py install
 
 ## Usage
 
